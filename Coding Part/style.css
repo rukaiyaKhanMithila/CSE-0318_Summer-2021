@@ -1,0 +1,118 @@
+body{
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    
+    margin:0px; 
+    padding:0px;
+    border:0px;
+}
+.navBar{
+
+	height:60px;
+	width:96%;
+	background: linear-gradient(to bottom, #336699 0%, #003366 100%);
+  padding-top:1.3225rem;
+
+   padding-bottom:.3125rem;
+        padding-right: .5rem;
+    padding-left: .5rem;
+
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.logo{
+
+       height: 200px;
+    width: 97.15%;
+
+    margin-left: 20px;
+    margin-right: 50px;
+    text-align: center;
+  background: linear-gradient(to bottom, #003366 0%, #336699 100%);
+
+
+}
+.right{
+
+    height: 100%;
+    width: 80%;
+    float: left;
+
+}
+
+.left{
+
+    height: 100%;
+    width: 20%;
+    float: right;
+    
+}
+a{
+	color: white;
+	text-decoration: none;
+	margin-right: 1rem;
+	font-size: 20px;
+
+}
+a:hover{
+	color:black;
+	background-color: white;
+}
+form {
+  width: 30%;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #555;
+}
+input {
+  width: 94.6%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+input[type="submit"] {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+select{
+      width: 100%;
+  border: 1px solid #f1e1e1;
+  display: block;
+  padding: 5px 10px;
+}
+
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+   cursor: pointer;
+}
+table {
+  width: 60%;
+  border-collapse: collapse;
+  margin: 100px auto;
+}
+th,
+td {
+  height: 50px;
+  vertical-align: center;
+  border: 1px solid black;
+}
+.container{
+
+    text-align: center;
+}
+body{
+    background: linear-gradient(to bottom, #336699 0%, #666699 100%);
+}
+label{
+    color: white;
+}
